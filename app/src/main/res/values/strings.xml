@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">OtterLibraryDatabase</string>
+    <string name="new_account">Create Account</string>
+    <string name="place_hold">Place Hold</string>
+    <string name="manage_system">Manage System</string>
+    <string name="enter_a_username">Enter a Username</string>
+    <string name="enter_a_password">Enter a Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="create_a_new_account">Create a new account:</string>
+    <string name="login">Login</string>
+    <string name="login_messgae">Login:</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="self_help">Self Help</string>
+    <string name="historical_fantasy">Historical Fantasy</string>
+    <string name="computer_science">Computer Science</string>
+    <string name="okay">Okay</string>
+    <string name="no">no</string>
+    <string name="yes">yes</string>
+    <string name="title_of_book">Title of Book:</string>
+    <string name="author_s_name">Author\'s Name:</string>
+    <string name="genre_of_book">Genre of Book:</string>
+    <string name="historical_fiction">Historical Fiction</string>
+</resources>
